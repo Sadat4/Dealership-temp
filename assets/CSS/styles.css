@@ -108,32 +108,32 @@ header {
     margin-bottom: 1rem;
 }
 .fakeimg.side1 {
-    background-image: url(../images/1.jpg);
+    background-image: url(../Images/1.jpg);
     background-size: cover;
     background-position: center;
     border-radius: 4px;
 }
 .fakeimg.side2 {
-    background-image: url(../images/2.jpg);
+    background-image: url(../Images/2.jpg);
     background-size: cover;
     background-position: center;
     border-radius: 4px;
 }
 .fakeimg.side3 {
-    background-image: url(../images/3.jpg);
+    background-image: url(../Images/3.jpg);
     background-size: cover;
     background-position: center;
     border-radius: 4px;
 }
 .fakeimg.ferrari {
-    background-image: url(../images/ferrari.jpg);
+    background-image: url(../Images/ferrari.jpg);
     height: 200px;
     background-size: cover;
     background-position: center;
     border-radius: 4px;
 }
 .fakeimg.lamborghini {
-    background-image: url(../images/lamborghini.jpg);
+    background-image: url(../Images/lamborghini.jpg);
     height: 200px;
     background-size: cover;
     background-position: center;
